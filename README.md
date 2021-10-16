@@ -27,3 +27,14 @@ VISUAL STUDIO HTML SUBMISSION ASSIGNMENT:
 * Push code to GitHub using Visual Studio Community 2019
 * Comment code accordingly
 * Submitted 10/9/2021
+
+
+Authors Eric C. Boland
+
+GitHub:@EChristian74
+LinkedIn:https://www.linkedin.com/in/christianmethodical/
+Email:christianmethodical@gmail.com
+Version History
+
+Mutliple uploads for various incremental assignments.
+No reference to specific versions due to repository is comprised of multiple assignments.

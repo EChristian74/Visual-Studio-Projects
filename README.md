@@ -2,24 +2,23 @@
 
 The purpose of this repository for display of Visual Studio projects that I completed during my attendance at The Tech Academy.
 
-Dependencies
 
-* Windows 10 OS
-* GitHub (https://github.com/)
-* Visual Studio Comumunity 2019 4.8.04084
+## Dependencies
 
-
-Installations
-
-* Getting Started with GitHub (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
-* Creating your first repository using GitHub Desktop (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
-* Visual Studio Comumunity 2019 4.8.04084 (https://visualstudio.microsoft.com/vs/)
-* Getting started faster with git and github (for visual studio) (https://www.youtube.com/watch?v=9ITVx4VvkcI)
+* [Windows 10 OS](https://www.microsoft.com/en-us/software-download/)
+* [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 
 
-PROJECT DETAILS
+## Other Helpful Links
 
-VISUAL STUDIO HTML SUBMISSION ASSIGNMENT:
+* [Getting Started with GitHub](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+* [Creating your first repository using GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
+* [Getting started faster with git and github (for visual studio)](https://www.youtube.com/watch?v=9ITVx4VvkcI)
+
+
+## Details by Assignment
+
+### Visual Studio HTML:
 
 * A basic HTML webpage with an embedded music video from Youtube of one of your favorite songs
 * Customize some element of the page with CSS (such as font or background color)
@@ -29,12 +28,12 @@ VISUAL STUDIO HTML SUBMISSION ASSIGNMENT:
 * Submitted 10/9/2021
 
 
-Authors Eric C. Boland
+## Author Eric C. Boland
 
-GitHub:@EChristian74
-LinkedIn:https://www.linkedin.com/in/christianmethodical/
-Email:christianmethodical@gmail.com
-Version History
+### Links:
 
-Mutliple uploads for various incremental assignments.
-No reference to specific versions due to repository is comprised of multiple assignments.
+* GitHub: <https://github.com/EChristian74>
+* LinkedIn: <https://www.linkedin.com/in/christianmethodical/>
+* Email: <christianmethodical@gmail.com>
+
+Jump to: [Page Top](#visual-studio-projects)

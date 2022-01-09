@@ -9,14 +9,8 @@ The purpose of this repository for display of Visual Studio projects that I comp
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 
 
-## Other Helpful Links
-
-* [Getting Started with GitHub](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
-* [Creating your first repository using GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
-* [Getting started faster with git and github (for visual studio)](https://www.youtube.com/watch?v=9ITVx4VvkcI)
-
-
 ## Details by Assignment
+
 
 ### Visual Studio HTML:
 

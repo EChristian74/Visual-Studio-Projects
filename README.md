@@ -28,7 +28,7 @@ The purpose of this repository for display of Visual Studio projects that I comp
 * Submitted 10/9/2021
 
 
-## Author Eric C. Boland
+## Author: Eric C. Boland
 
 ### Links:
 
